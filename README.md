@@ -1,0 +1,1 @@
+Planet and moon relative sizes, their rotation speeds, axis tilts, orbit eccentricities, orbital speeds of moons are to scale. Press l to turn on/off light. Press d to drop the ball (represents gravity on a particular planet)
